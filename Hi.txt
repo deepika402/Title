@@ -1,1 +1,10 @@
-hi 
+# Project Title :  
+### Batch NO : 01
+### Mentor Name : 
+### Github Link : 
+### Team Details :
+| S.no  | Name  | Roll Number  | Email Id  |
+|-------|-------|--------------|-----------|
+| 1  | Sanjay  | 16CSB27  |   |
+|  2 |   |   |   |
+| 3  |   |   |   |
